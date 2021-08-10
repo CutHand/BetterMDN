@@ -1,0 +1,7 @@
+.fix-table{
+    background-color: white;
+    position: sticky;
+    top: -2px;
+    box-shadow: -1px 7px 9px 0px #b3b3b38c;
+    border-radius: 0px 0px 60px/ 120px 0px;
+}
